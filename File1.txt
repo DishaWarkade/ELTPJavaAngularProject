@@ -1,4 +1,4 @@
-hello World...
+hello World
 
 Change 1- for login feature
 
@@ -9,3 +9,4 @@ Change 3- by team mate for WI3
 Change 4- bug2
 Change 5- to test push normal to remote master
 
+Change 7: team mate change for CR2 on remote master
