@@ -3,3 +3,5 @@ Welcome to Git Demo
 Change 1: done by team mate on master for WI5 and Check rebase merging
 
 Change 2: for feature payment to test rebase and Change to test rebase in enhancement 1
+
+Change 3: check for stash
